@@ -1,0 +1,7 @@
+require "rspec"
+require_relative "../monster"
+
+describe "monsters" do
+  before do
+  end
+end
